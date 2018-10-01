@@ -37,7 +37,6 @@ Bladder small DRG neurons, which are putative nociceptors pivotal to urinary bla
 #### Generating Fig 9A and Fig 16A, C, D of the paper
 Below steps are common to all the OS types:
 
-
 1. Generating, Fig 9A of the paper: cick the `Generate Fig 9A` button which will run the fig9A.hoc file to generate Fig 9A:
 
 ![fig 9A](./fig9A.PNG)
