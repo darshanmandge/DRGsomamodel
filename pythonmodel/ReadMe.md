@@ -16,7 +16,7 @@ Bladder small DRG neurons, which are putative nociceptors pivotal to urinary bla
 
 2. Assuming you're current working directory is the model folder, run `python` or (`python3`) via command prompt (or IDLE/spyder/Jupyter notbook).
 
-3. At the python interpreter type: `import mosinit`. If python-based NEURON is installed, NEURON GUI will appear with a panel for generating graphs. See **Generating Fig 9A and Fig 16A, C, D of the paper** below . If you see an error, check you NEURON installation or download the [latest NEURON version](https://www.neuron.yale.edu/neuron/download/precompiled-installers) and install it with  python-based NEURON.
+3. At the python interpreter type: `import mosinit`. If python-based NEURON is installed, NEURON GUI will appear with a panel for generating graphs. See **Generating Fig 9A and Fig 16A, C, D of the paper** below . If you see an error, check your NEURON installation or download the [latest NEURON version](https://www.neuron.yale.edu/neuron/download/precompiled-installers) and install it with python-based NEURON.
 
 
 #### Unix based Systems
@@ -25,13 +25,14 @@ Bladder small DRG neurons, which are putative nociceptors pivotal to urinary bla
 
 2. Compile the mod files by calling `nrnivmodl` from terminal. 
 
-3. At the python (`python` or `python3`) interpreter, type: `import mosinit`. If python-based NEURON is installed, NEURON GUI will appear with a panel for generating graphs. See **Generating Fig 9A and Fig 16A, C, D of the paper** below . If you see an error, check you NEURON installation or download the [latest NEURON version](https://www.neuron.yale.edu/neuron/download/precompiled-installers) and install it with  python-based NEURON.
+3. At the python (`python` or `python3`) interpreter, type: `import mosinit`. If python-based NEURON is installed, NEURON GUI will appear with a panel for generating graphs. See **Generating Fig 9A and Fig 16A, C, D of the paper** below . If you see an error, check your NEURON installation or download the [latest NEURON version](https://www.neuron.yale.edu/neuron/download/precompiled-installers) and install it with python-based NEURON.
+
 
 #### For MacOS based Systems
 
 1. Compiling mod files: Follow the instructions given [here](https://www.neuron.yale.edu/neuron/static/docs/nmodl/macos.html).
 
-2. Launch python and at the python interpreter type: `import mosinit`. If python-based NEURON is installed, NEURON GUI will appear with a panel for generating graphs. See **Generating Fig 9A and Fig 16A, C, D of the paper** below . If you see an error, check you NEURON installation or download the [latest NEURON version](https://www.neuron.yale.edu/neuron/download/precompiled-installers) and install it with  python-based NEURON.
+2. Launch python and at the python interpreter type: `import mosinit`. If python-based NEURON is installed, NEURON GUI will appear with a panel for generating graphs. See **Generating Fig 9A and Fig 16A, C, D of the paper** below . If you see an error, check your NEURON installation or download the [latest NEURON version](https://www.neuron.yale.edu/neuron/download/precompiled-installers) and install it with python-based NEURON.
 
 #### Generating Fig 9A and Fig 16A, C, D of the paper
 Below steps are common to all the OS types:
