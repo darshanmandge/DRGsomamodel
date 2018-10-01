@@ -9,3 +9,6 @@ can be found here:
 
 - [ModelDB](https://modeldb.yale.edu/243448)
 - [GitHub Repositoy of ModlDB](https://github.com/ModelDBRepository/243448)
+
+#### Python-based model can be found [here](https://github.com/darshanmandge/DRGsomamodel/tree/master/pythonmodel)
+
